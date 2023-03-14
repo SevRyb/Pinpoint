@@ -1,5 +1,5 @@
 <h1> Pinpoint </h1>
-<img src="https://github.com/SevRyb/Pinpoint/blob/main/icon-b.png">
+<img src="https://github.com/SevRyb/Pinpoint/blob/main/icon-b.png" width="20%">
 <p>
 Pinpoint - text messenger made with Qt 5. First release I did for my university coursework.<br/>
 </p>
@@ -23,9 +23,9 @@ Pinpoint - text messenger made with Qt 5. First release I did for my university 
   The server is only router of packets, so all messages are stored on client's memory.
 </p>
 <p>Start server and open client, enter your nickname</p>
-  <p><img src="https://github.com/SevRyb/Pinpoint/blob/main/profile.png"></p>
-  Connect. Default port is 1967.<br/>
-  <p><img src="https://github.com/SevRyb/Pinpoint/blob/main/connect-to-server.png"></p>
+<p><img src="https://github.com/SevRyb/Pinpoint/blob/main/profile.png"></p>
+<p>Click on the "Server" to establish the connection with the server. (Default port is 1967)</p>
+<p><img src="https://github.com/SevRyb/Pinpoint/blob/main/connect-to-server.png"></p>
 
 <h2> Tests </h2>
 <p>I tested it on a local network on several computers.<br/>
