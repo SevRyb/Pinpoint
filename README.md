@@ -18,13 +18,14 @@ Pinpoint - text messenger made with Qt 5. First release I did for my university 
 </p>
 
 <h2> How does it work? </h2>
-<p>It uses TCP/IP protocol to exchange JSON packets.<br/>
-  The server is only router of packets, so all messages are stored on client's memory.<br/><br/>
-  Start server and open client, enter your nickname<br/>
+<p>
+  It uses TCP/IP protocol to exchange JSON packets.
+  The server is only router of packets, so all messages are stored on client's memory.
+</p>
+<p>Start server and open client, enter your nickname</p>
   <p><img src="https://github.com/SevRyb/Pinpoint/blob/main/profile.png"></p>
   Connect. Default port is 1967.<br/>
   <p><img src="https://github.com/SevRyb/Pinpoint/blob/main/connect-to-server.png"></p>
-</p>
 
 <h2> Tests </h2>
 <p>I tested it on a local network on several computers.<br/>
@@ -46,4 +47,5 @@ Pinpoint - text messenger made with Qt 5. First release I did for my university 
     <td><img src="https://github.com/SevRyb/Pinpoint/blob/main/win7-with-font_emj.png"></td>
   </tr>
 </table>
-<h2> To do </h2>
+<h2> TODO </h2>
+<p>First of all implement encryption and multithreading on the server</p>
