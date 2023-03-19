@@ -42,7 +42,7 @@ void ServerWindow::logMessage(const QString &msg)
 //------------------------------------------------------------------------------------------
 void ServerWindow::setupUi()
 {
-    setWindowTitle("Pinpoint Server");
+    setWindowTitle("PinpointServer");
     resize(500, 500);
     m_logEditor = new QPlainTextEdit(this);
     m_startStopButton = new QPushButton(tr("Start Server"), this);
