@@ -1,5 +1,11 @@
 QT += core network gui widgets
 
+VERSION = 1.0.0.0
+QMAKE_TARGET_COMPANY = "SevRyb"
+QMAKE_TARGET_PRODUCT = "Pinpoint"
+QMAKE_TARGET_DESCRIPTION = "Pinpoint messenger"
+QMAKE_TARGET_COPYRIGHT = "Copyright © 2023 SevRyb"
+
 TARGET = Pinpoint
 TEMPLATE = app
 

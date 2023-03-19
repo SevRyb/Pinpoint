@@ -1,5 +1,11 @@
 QT += core network gui widgets
 
+VERSION = 1.0.0.0
+QMAKE_TARGET_COMPANY = "SevRyb"
+QMAKE_TARGET_PRODUCT = "PinpointServer"
+QMAKE_TARGET_DESCRIPTION = "PinpointServer - server for Pinpoint messenger"
+QMAKE_TARGET_COPYRIGHT = "Copyright © 2023 SevRyb"
+
 TARGET = PinpointServer
 TEMPLATE = app
 
@@ -33,3 +39,6 @@ RESOURCES += \
     resources.qrc
 
 RC_ICONS = icon.ico
+
+DISTFILES += \
+    resources.rc
