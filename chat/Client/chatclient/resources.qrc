@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/connection-icon.png</file>
+        <file>icons/emoji-btn.png</file>
+        <file>icons/members-icon.png</file>
+        <file>icons/profile-icon.png</file>
+        <file>icons/send-btn.png</file>
+        <file>icons/icon-bt.png</file>
+        <file>icons/icon-256.png</file>
+        <file>fonts/seguiemj.ttf</file>
+        <file>fonts/OpenSans-VariableFont.ttf</file>
+    </qresource>
+</RCC>
