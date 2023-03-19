@@ -26,6 +26,8 @@ Pinpoint - text messenger made with Qt 5. First release I did for my university 
 <p><img src="https://github.com/SevRyb/Pinpoint/blob/main/profile.png"></p>
 <p>Click on the "Server" to establish the connection with the server. (Default port is 1967)</p>
 <p><img src="https://github.com/SevRyb/Pinpoint/blob/main/connect-to-server.png"></p>
+<p>In addition you can review participants and their joining time.</p>
+<p><img src="https://github.com/SevRyb/Pinpoint/blob/main/members.png"></p>
 
 <h2> Tests </h2>
 <p>I tested it on a local network on several computers.<br/>
