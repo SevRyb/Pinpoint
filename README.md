@@ -1,7 +1,7 @@
 <h1> Pinpoint </h1>
 <img src="https://github.com/SevRyb/Pinpoint/blob/main/showcase/icon-b.png" width="20%">
 <p>
-Pinpoint - text messenger made with Qt 5. First release I did for my university coursework.<br/>
+Pinpoint - text messenger made with Qt 5. Firstly, I did it for my university coursework.<br/>
 </p>
 <h2> How does it look like? </h2>
 <h3> Client app </h3>
