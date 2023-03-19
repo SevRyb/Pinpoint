@@ -28,6 +28,10 @@ Pinpoint - text messenger made with Qt 5. First release I did for my university 
 <p><img src="https://github.com/SevRyb/Pinpoint/blob/main/connect-to-server.png"></p>
 <p>In addition you can review participants and their joining time.</p>
 <p><img src="https://github.com/SevRyb/Pinpoint/blob/main/members.png"></p>
+<p>Also I can't help remembering window with emoticons, I like it best!</p>
+<p><img src="https://github.com/SevRyb/Pinpoint/blob/main/win11_emj.png"></p>
+<p>To get an array of emoticons I wrote a python script and parsed all emojies from https://unicode.org/emoji/charts/full-emoji-list.html. Not all of them were adequately displayed, so I selected some of them.</p>
+
 
 <h2> Tests </h2>
 <p>I tested it on a local network on several computers.<br/>
