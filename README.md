@@ -57,4 +57,4 @@ const char32_t emojies[] = {U'😀', U'😃', U'😄', U'😁', U'😆', U'😅'
   </tr>
 </table>
 <h2> TODO </h2>
-<p>First of all implement encryption and multithreading on the server</p>
+<p>First of all implement encryption and multithreading on the server.</p>
